@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name> - Portfolio
+title: Jason Ramos Allen Severino - Portfolio
 permalink: /projects/
 ---
 
